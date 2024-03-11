@@ -4,7 +4,7 @@
 <img src="https://www.datacamp.com/datacamp.png?v=20102020" width="500">
 </p>
 
-These are all the projects that I am working/worked as a part of my journey in [Datacamp](https://www.datacamp.com/profile/joaocastroraposo).
+These are all the projects that I am working/worked as a part of my journey in [Datacamp](https://www.datacamp.com/portfolio/jcraposo).
 
 ### Python
 | Project | Description |
